@@ -1,0 +1,43 @@
+.jumbotron {
+    padding-top: 5rem;
+    background-color: #e2edff;
+}
+
+hr {
+    content: '';
+    display: block;
+    border-bottom: 3px solid blue;
+    width: 13%;
+    margin: 0 auto;
+}
+
+#projects, #contact {
+    background-color: #e2edff;
+}
+
+section {
+    padding-top: 5rem;
+}
+
+.right {
+    height: 300px;
+    border-right: 2px solid black;
+}
+
+.left {
+    height: 300px;
+    border-left: 2px solid black;
+}
+
+.left p {
+    margin-top: 30px !important;
+}
+
+.card-text, .pe {
+    font-weight: 430;
+    font-size: medium;
+}
+
+#projects .card, .gallery {
+    width: 300px;
+}
