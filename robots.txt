@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rifkifiransah.vercel.app/sitemap.xml
